@@ -1,6 +1,6 @@
 # CHANGWON
-Changwon Bigdata Competition
-<b>주제: 클러스터링을 통한 창원시 전기차 충전소 입지 추천</b>
+<b>Changwon Bigdata Competition:
+클러스터링을 통한 창원시 전기차 충전소 입지 추천</b>
 
 파일설명
 
